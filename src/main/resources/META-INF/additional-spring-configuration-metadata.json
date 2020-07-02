@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "slack.webhook",
+      "type": "java.lang.String",
+      "description": "Description for slack.webhook."
+  }
+] }
